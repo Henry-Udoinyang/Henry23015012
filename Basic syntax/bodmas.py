@@ -1,0 +1,10 @@
+Number1 =int(input("first value: "))
+Number2 =int (input("second value: "))
+add= Number1 + Number2
+minus= Number1 - Number2
+multiply= Number1 * Number2
+divide= Number1/Number2
+print("sum = ", add)
+print("Difference = ", minus)
+print("Product = ", multiply)
+print("Quotient =", divide)
